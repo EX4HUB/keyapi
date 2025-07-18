@@ -8,7 +8,7 @@ const client = new Client({
 
 const ADMIN_ROLE_ID = process.env.ADMIN_ROLE_ID;
 
-const API_BASE = 'https://4afa4111de27.ngrok-free.app';
+const API_BASE = 'https://keyapi.onrender.com';
 
 // ----- Register Slash Commands -----
 const commands = [
